@@ -1,24 +1,45 @@
-# HTML, CSS, Javascript Reference
-- [w3schools.com](http://www.w3schools.com/default.asp)
-- [MDN](https://developer.mozilla.org/en-US/docs/Web)
-- [Free JS Books](http://jsbooks.revolunet.com/)
-- [Free HTML Books](http://www.onlineprogrammingbooks.com/html/)
+# Methods and tags used in the Coding session
 
-# Powered by Web Technologies
-- [Nodejs](https://nodejs.org)
-- [HTML5 Games](http://hexgl.bkcore.com/)
-- Mobile Development [Phonegap](http://phonegap.com/) and [Appcelerator](https://www.appcelerator.com/)
-- Desktop Applications [NW.js](https://github.com/nwjs/nw.js/) and [Windows Runtime](https://msdn.microsoft.com/en-us/library/windows/apps/br211369.aspx)
-- Embedded Systems [Tessel](https://tessel.io/), [Espruino](http://www.espruino.com/), and [Cylon.js](http://cylonjs.com/)
+## HTML Tags
+- [title](http://www.w3schools.com/tags/tag_title.asp)
+- [link](http://www.w3schools.com/tags/tag_link.asp)
+- [script](http://www.w3schools.com/tags/tag_script.asp)
+- [header](http://www.w3schools.com/tags/tag_header.asp)
+- [img](http://www.w3schools.com/tags/tag_img.asp)
+- [h1](http://www.w3schools.com/tags/tag_hn.asp)
+- [br](http://www.w3schools.com/tags/tag_br.asp)
+- [form](http://www.w3schools.com/tags/tag_form.asp)
+- [section](http://www.w3schools.com/tags/tag_section.asp)
+- [label](http://www.w3schools.com/tags/tag_label.asp)
+- [input](http://www.w3schools.com/tags/tag_input.asp)
+- [select](http://www.w3schools.com/tags/tag_select.asp)
+- [option](http://www.w3schools.com/tags/tag_option.asp)
+- [video](http://www.w3schools.com/tags/tag_video.asp)
+- [audio](http://www.w3schools.com/tags/tag_audio.asp)
+- [source](http://www.w3schools.com/tags/tag_source.asp)
 
-# Exercise files for Basic HTML5
+### Links for video and audio
+* [Video](http://www.w3schools.com/html/mov_bbb.mp4) type = video/mp4
+* [Audio](http://treehouse-code-samples.s3.amazonaws.com/html-video-and-audio/bridge-audio.mp3)
 
-You can clone the repo or work online using Plunker
+## CSS Selectors
+- body
+- input, select
+- input[type="checkbox"], input[type="radio"]
+- label
+- form
+- form section
+- video, audio
+- h1
+- img
 
-- For the before files go to [before](http://plnkr.co/edit/Z3PccM)
-- For the after files go to [after](http://plnkr.co/edit/Ql7fsc)
+## Javascript Methods
+- [document](http://www.w3schools.com/js/js_events_examples.asp)
+- window.onload
+- document.getElementById
+- document.querySelector
+- addEventListener
 
+### DOM events
+* change
 
-
-### Version
-1.0
