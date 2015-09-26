@@ -1,0 +1,33 @@
+/* Styles go here */
+
+body{
+  background: url(http://i.imgur.com/dG3RV.png);
+  text-align: center;
+  color: #fff;
+}
+
+video, canvas{
+  border: 5px solid #fff;
+  border-radius: 5px;
+  width: 480px;
+  height: 320px;
+  background-color: #000;
+}
+
+.grayscale {
+  -webkit-filter: grayscale(1);
+  -mos-filter: grayscale(1);
+  filter: grayscale(1);
+}
+
+.sepia{
+  -webkit-filter: sepia(1);
+  -mos-filter: sepia(1);
+  filter: sepia(1);
+}
+
+.invert {
+  -webkit-filter: invert(1);
+  -mos-filter: invert(1);
+  filter: invert(1);
+}
