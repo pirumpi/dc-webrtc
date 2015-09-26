@@ -4,7 +4,6 @@
 
 
 # Powered by WebRTC
-- [Nodejs](https://nodejs.org)
 - [VoiceChat](http://voicechatapi.com/)
 - [tokbox](https://tokbox.com/platform/video)
 - [talky](https://talky.io/)
