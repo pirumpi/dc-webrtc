@@ -1,0 +1,41 @@
+html, body{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    height: 35px;
+    color: #fff;
+    background: rgba(73,155,234,1);
+    margin: 0; 
+}
+
+header h2{
+    margin: 0px;
+    padding-top: 4px;
+    padding-left: 5px;
+}
+
+section, form{
+    padding: 10px;
+}
+
+section span{
+    color: cornflowerblue;
+    text-decoration: underline;
+}
+
+#localVideo {
+  width: 250px;
+  border-radius: 9px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#remoteVideos video{
+  width: 20%;
+  border-radius: 9px;
+  max-height: 190px;
+  padding: 10px;
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>P2P App</title>
+        <link rel="stylesheet" href="style.css"/>
+        <script src="http://simplewebrtc.com/latest.js"></script>
+    </head>
+    <body>
+        <!--You can add your personal logo in the header-->
+        <header>
+            <h2>P2P Chat</h2>
+        </header>
+        
+        <!--Share link with family and friends-->
+        <section>
+            Share this link: <span id="link"></span>
+        </section>
+        
+        <!--Create Chat room form-->
+        <form>
+            <label>Room Name<input type="text" name="roomName"/></label>
+            <button>Create Room</button>
+        </form>
+        
+        <!--You camera stream goes here-->
+        <video id="localVideo"></video>
+        
+        <hr/>
+        
+        <!--All your friends are going to show inside this container-->
+        <div id="remoteVideos"></div>
+        
+        <script src="script.js"></script>
+    </body>
+</html>
